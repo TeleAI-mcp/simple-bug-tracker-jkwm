@@ -1,2 +1,3 @@
-# simple-bug-tracker-jkwm
-Automated issue comment bot repository
+# Simple Bug Tracker Jkwm
+
+Automated issue comment bot repository.
